@@ -186,9 +186,9 @@ body::before {
 
 .nav-btn { 
   flex: 1; background: rgba(139,92,246,0.1); border: 1px solid rgba(139,92,246,0.2); 
-  border-radius: 12px; height: 36px; padding: 0 4px; font-size: 9px; font-weight: 700; 
+  border-radius: 12px; height: 36px; padding: 0 4px; font-size: 7px; font-weight: 700; 
   color: #c4b5fd; cursor: pointer; display: flex; align-items: center; justify-content: center; 
-  gap: 3px; white-space: nowrap; overflow: hidden; transition: all 0.3s cubic-bezier(0.4,0,0.2,1); 
+  gap: 2px; white-space: nowrap; overflow: hidden; transition: all 0.3s cubic-bezier(0.4,0,0.2,1); 
 }
 .nav-btn .material-symbols-rounded { font-size: 16px; transition: transform 0.2s; }
 .nav-btn:hover { background: rgba(139,92,246,0.2); color: white; transform: translateY(-1px); }
@@ -437,21 +437,24 @@ body::before {
 </head>
 <body>
 
-<div class="v-tag" id="v-tag-el">V.1.0</div>
 
 <!-- ENTRY PAGE -->
 <div id="entry-page" class="page-anim">
-  <div class="notif-btn-wrap">
+<div class="notif-btn-wrap">
     <button class="notif-btn" onclick="openChangelog()">
       <span class="material-symbols-rounded">notifications</span>
       <span class="notif-badge" id="notif-badge">0</span>
     </button>
-  </div>
+    <button class="notif-btn" onclick="location.reload()" style="margin-top:8px;">
+      <span class="material-symbols-rounded">update</span>
+    </button>
+</div>
+    
   <div class="entry-module-header">
     <img class="entry-module-logo" src="module3logo.webp" alt="Module 3" width="110" height="110" fetchpriority="high" decoding="async" onerror="this.onerror=null;this.src='logo.webp';this.onerror=function(){this.style.display='none'};">
     <div class="main-title-white">5 Dakikada İngilizce</div>
   </div>
-  <div class="v-tag" id="v-tag-el2">V.1.0</div>
+  <div class="v-tag" id="v-tag-el">V.1.0</div>
   <div class="select-lesson-title">#Module 3</div>
   <div id="lesson-list-container"></div>
 </div>
@@ -530,10 +533,7 @@ body::before {
     <span class="banner-icon">⚠️</span>
     <span id="banner-refresh-text">En güncel sürümü kullanmak için lütfen sayfayı yenileyin!</span>
   </div>
-  <div class="sheet-refresh-banner">
-    <span class="banner-icon">🌐</span>
-    <span>Web üzerinden kullanım için Chrome tarayıcısının kullanılması önerilmektedir. Diğer tarayıcılarda mikrofon özelliği çalışmayabilir!</span>
-  </div>
+    
   <div class="sheet-list" id="sheet-list"></div>
 </div>
 
