@@ -6,4 +6,5 @@
   { "id": 28, "name": "Lesson #28", "subTitle": "When / While",                                                  "file": "lessons/m3/lesson28.json", "logo": "lessonlogo28.svg" },
   { "id": 34, "name": "Lesson #34", "subTitle": "use / used to / get used to / to be used to",                  "file": "lessons/m3/lesson34.json", "logo": "lessonlogo34.svg", "notes": "lessons/m3/notes/m3lesson34_notes.json" },
   { "id": 35, "name": "Lesson #35", "subTitle": "TAG QUESTIONS",                                                 "file": "lessons/m3/lesson35.json", "logo": "lessonlogo35.svg" }
+  { "id": 36, "name": "Lesson #36", "subTitle": "Tüm Modul Karışık",                                                 "file": "lessons/m3/lesson36.json", "logo": "lessonlogo36.svg" }
 ]
