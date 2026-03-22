@@ -71,8 +71,8 @@
 
   {"id": 57, "tr": "Belki sana komik bir hikaye anlatırım.", "en": "I might tell you a funny story."},
   {"id": 58, "tr": "Belki sana komik bir hikaye anlatmam.", "en": "I might not tell you a funny story."},
-  {"id": 59, "tr": "Belki bana komik bir hikaye anlatır mısın?", "en": "Might you tell me a funny story?"},aaaaaaaaaaaaaaaaa
-  {"id": 60, "tr": "Belki bana ne zaman komik bir hikaye anlatırsın?", "en": "When might I tell you a funny story?"},aaaaaaaaaaaaaaaaaaaa
+  {"id": 59, "tr": "Belki bana komik bir hikaye anlatır mısın?", "en": "Might you tell me a funny story?"},
+  {"id": 60, "tr": "Belki bana ne zaman komik bir hikaye anlatırsın?", "en": "When might I tell you a funny story?"},
 
   {"id": 61, "tr": "Öğrenciler İngilizce konuşabilir.", "en": " The students can speak English."},
   {"id": 62, "tr": "Öğrenciler İngilizce konuşamaz.", "en": "The students can't speak English."},
@@ -146,8 +146,8 @@
 
   {"id": 117, "tr": "Kedi belki topla oynar.", "en": "The cat might play with the ball."},
   {"id": 118, "tr": "Kedi belki topla oynamaz.", "en": "The cat might not play with the ball."},
-  {"id": 119, "tr": "Kedi belki topla oynar mı?", "en": "Might the cat play with the ball?"}, aaaaaaaaaaaaaaaaaaaaaa
-  {"id": 120, "tr": "Kedi neyle oynayabilir?", "en": "What might the cat play with?"},aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  {"id": 119, "tr": "Kedi belki topla oynar mı?", "en": "Might the cat play with the ball?"}, 
+  {"id": 120, "tr": "Kedi neyle oynayabilir?", "en": "What might the cat play with?"},
 
   {"id": 121, "tr": "Öğlen yemeğimi evden getirebilirim.", "en": "I can bring my lunch from home."},
   {"id": 122, "tr": "Öğlen yemeğimi evden getiremem.", "en": "I can't bring my lunch from home."},
@@ -237,7 +237,7 @@
   {"id": 189, "tr": "Biz belki hafta sonu film seyrederiz.", "en": "We might watch a film at the weekend."},
   {"id": 190, "tr": "Biz belki hafta sonu film seyretmeyiz.", "en": "We might not watch a film at the weekend."},
   {"id": 191, "tr": "Biz belki hafta sonu film seyreder miyiz?", "en": "Might we watch a film at the weekend?"},
-  {"id": 192, "tr": "Biz hafta sonu ne seyredebiliriz?", "en": "What might we watch at the weekend?"}, aaaaaaaaaaaaaaaaaaaa
+  {"id": 192, "tr": "Biz hafta sonu ne seyredebiliriz?", "en": "What might we watch at the weekend?"}, 
 
   {"id": 193, "tr": "Ali anahtarlarını bulmak zorunda.", "en": "Ali has to find his keys."},
   {"id": 194, "tr": "Ali anahtarlarını bulmak zorunda değil.", "en": "Ali doesn't have to find his keys."},
@@ -571,9 +571,9 @@
 
   {"id": 457, "tr": "Bu çanta belki Ayşe'ye aittir.", "en": "This bag might belong to Ayse."},
   {"id": 458, "tr": "Bu çanta belki Ayşe'ye ait değildir.", "en": "This bag might not belong to Ayse."},
-  {"id": 459, "tr": "Bu çanta belki Ayşe'ye ait midir?", "en": "Might this bag belong to Ayse?"},aaaaaaaaaaaaa
-  {"id": 460, "tr": "Bu çanta belki kime aittir?", "en": "Who might this bag belong to?"},aaaaaaaaaaaaaaaaaa
-
+  {"id": 459, "tr": "Bu çanta belki Ayşe'ye ait midir?", "en": "Might this bag belong to Ayse?"},
+  {"id": 460, "tr": "Bu çanta belki kime aittir?", "en": "Who might this bag belong to?"},
+  
   {"id": 461, "tr": "Annemle yemek pişireceğiz.", "en": "We will cook with my mother."},
   {"id": 462, "tr": "Annemle yemek pişirmeyeceğiz.", "en": "We won't cook with my mother."},
   {"id": 463, "tr": "Annenle yemek pişirecek misiniz?", "en": "Will you cook with your mother?"},
@@ -607,10 +607,10 @@
   {"id": 485, "tr": "Salatayı karıştırman lazım.", "en": "You need to mix the salad."},
   {"id": 486, "tr": "Salatayı karıştırmana gerek yok.", "en": "You don't need to mix the salad."},
   {"id": 487, "tr": "Salatayı karıştırman gerekiyor mu?", "en": "Do you need to mix the salad?"},
-  {"id": 488, "tr": "Salatayı nasıl karıştırman lazım?", "en": "How do you need to mix the salad?"},
+  {"id": 488, "tr": "Salatayı nasıl karıştırmam lazım?", "en": "How do I need to mix the salad?"},
 
   {"id": 489, "tr": "Sebzeleri eski bir bıçakla kesmeliyim.", "en": "I must cut the vegetables with an old knife."},
-  {"id": 490, "tr": "Sebzeleri eski bir bıçakla kesmemeliydim.", "en": "I mustn't cut the vegetables with an old knife."},
+  {"id": 490, "tr": "Sebzeleri eski bir bıçakla kesmemeliyim.", "en": "I mustn't cut the vegetables with an old knife."},
   {"id": 491, "tr": "Sebzeleri eski bir bıçakla kesmeli misin?", "en": "Must you cut the vegetables with an old knife?"},
   {"id": 492, "tr": "Sebzeleri ne ile kesmeliyim?", "en": "What must I cut the vegetables with?"},
 
@@ -620,9 +620,9 @@
   {"id": 496, "tr": "Yemek pişirmeden önce neyin kabuğunu soyabilirsin?", "en": "What can you peel before cooking?"},
 
   {"id": 497, "tr": "Onlar arabayı itse iyi olur.", "en": "They should push the car."},
-  {"id": 498, "tr": "Onlar arabayı itmemesi iyi olur.", "en": "They shouldn't push the car."},
-  {"id": 499, "tr": "Onlar arabayı itmeli mi?", "en": "Should they push the car?"},
-  {"id": 500, "tr": "Onlar neyi itmeli?", "en": "What should they push?"},
+  {"id": 498, "tr": "Onlar arabayı itse iyi olmaz.", "en": "They shouldn't push the car."},
+  {"id": 499, "tr": "Onlar arabayı itse iyi olur mu?", "en": "Should they push the car?"},
+  {"id": 500, "tr": "Onlar neden arabayı itse iyi olur?", "en": "Why should they push the car?"},
 
   {"id": 501, "tr": "Siz arabayı çekebilirdiniz.", "en": "You could pull the car."},
   {"id": 502, "tr": "Siz arabayı çekemezdiniz.", "en": "You couldn't pull the car."},
@@ -640,14 +640,14 @@
   {"id": 512, "tr": "Çocuklar kime el sallayacak?", "en": "Who will the children wave at?"},
 
   {"id": 513, "tr": "Ali ayranı sallasa iyi olur.", "en": "Ali should shake the ayran."},
-  {"id": 514, "tr": "Ali ayranı sallaması iyi olmaz.", "en": "Ali shouldn't shake the ayran."},
-  {"id": 515, "tr": "Ali ayranı sallamalı mı?", "en": "Should Ali shake the ayran?"},
-  {"id": 516, "tr": "Ali neyi sallamalı?", "en": "What should Ali shake?"},
+  {"id": 514, "tr": "Ali ayranı sallasa iyi olmaz.", "en": "Ali shouldn't shake the ayran."},
+  {"id": 515, "tr": "Ali ayranı sallasa iyi olur mu?", "en": "Should Ali shake the ayran?"},
+  {"id": 516, "tr": "Ali ayranı ne zaman sallasa iyi olur?", "en": "When should Ali shake the ayran?"},
 
-  {"id": 517, "tr": "Ronaldo topa vurabilir.", "en": "Ronaldo can kick the ball."},
-  {"id": 518, "tr": "Ronaldo topa vuramaz.", "en": "Ronaldo can't kick the ball."},
-  {"id": 519, "tr": "Ronaldo topa vurabilir mi?", "en": "Can Ronaldo kick the ball?"},
-  {"id": 520, "tr": "Ronaldo neye vurabilir?", "en": "What can Ronaldo kick?"},
+  {"id": 517, "tr": "Ronaldo topa vurabilir.", "en": "Ronaldo can hit the ball."},
+  {"id": 518, "tr": "Ronaldo topa vuramaz.", "en": "Ronaldo can't hit the ball."},
+  {"id": 519, "tr": "Ronaldo topa vurabilir mi?", "en": "Can Ronaldo hit the ball?"},
+  {"id": 520, "tr": "Ronaldo neye vurabilir?", "en": "What can Ronaldo hit?"},
 
   {"id": 521, "tr": "Ayşe anahtarlarını masaya koymalı.", "en": "Ayse must put her keys on the table."},
   {"id": 522, "tr": "Ayşe anahtarlarını masaya koymamalı.", "en": "Ayse mustn't put her keys on the table."},
@@ -655,19 +655,19 @@
   {"id": 524, "tr": "Ayşe anahtarlarını nereye koymalı?", "en": "Where must Ayse put her keys?"},
 
   {"id": 525, "tr": "Ali bardağı portakal suyuyla doldurabilirdi.", "en": "Ali could fill the glass with orange juice."},
-  {"id": 526, "tr": "Ali bardağı portakal suyuyla dolduramadı.", "en": "Ali couldn't fill the glass with orange juice."},
+  {"id": 526, "tr": "Ali bardağı portakal suyuyla dolduramazdı.", "en": "Ali couldn't fill the glass with orange juice."},
   {"id": 527, "tr": "Ali bardağı portakal suyuyla doldurabilir miydi?", "en": "Could Ali fill the glass with orange juice?"},
   {"id": 528, "tr": "Ali bardağı ne ile doldurabilirdi?", "en": "What could Ali fill the glass with?"},
 
   {"id": 529, "tr": "Ayşe çöpü boşaltabilir.", "en": "Ayse can empty the garbage."},
   {"id": 530, "tr": "Ayşe çöpü boşaltamaz.", "en": "Ayse can't empty the garbage."},
   {"id": 531, "tr": "Ayşe çöpü boşaltabilir mi?", "en": "Can Ayse empty the garbage?"},
-  {"id": 532, "tr": "Ayşe neyi boşaltabilir?", "en": "What can Ayse empty?"},
+  {"id": 532, "tr": "Ayşe çöpü ne zaman boşaltabilir?", "en": "When can Ayse empty the garbage?"},
 
   {"id": 533, "tr": "Ali bana daha iyi bir iş teklif etse iyi olur.", "en": "Ali should offer me a better job."},
-  {"id": 534, "tr": "Ali bana daha iyi bir iş teklif etmemesi iyi olur.", "en": "Ali shouldn't offer me a better job."},
-  {"id": 535, "tr": "Ali bana daha iyi bir iş teklif etmeli mi?", "en": "Should Ali offer me a better job?"},
-  {"id": 536, "tr": "Ali bana ne teklif etmeli?", "en": "What should Ali offer me?"},
+  {"id": 534, "tr": "Ali bana daha iyi bir iş teklif etse iyi olmaz.", "en": "Ali shouldn't offer me a better job."},
+  {"id": 535, "tr": "Ali sana daha iyi bir iş teklif etse iyi olur mu?", "en": "Should Ali offer you a better job?"},
+  {"id": 536, "tr": "Ali sana ne zaman daha iyi bir iş teklif etse iyi olur?", "en": "When should Ali offer you a better job?"},
 
   {"id": 537, "tr": "Çocukların bahçede oynamasına izin vereceğim.", "en": "I will let the children play in the garden."},
   {"id": 538, "tr": "Çocukların bahçede oynamasına izin vermeyeceğim.", "en": "I won't let the children play in the garden."},
@@ -676,7 +676,7 @@
 
   {"id": 541, "tr": "Senin teklifini kabul etmek zorundayım.", "en": "I have to accept your offer."},
   {"id": 542, "tr": "Senin teklifini kabul etmek zorunda değilim.", "en": "I don't have to accept your offer."},
-  {"id": 543, "tr": "Benim teklifimi kabul etmek zorunda mısın?", "en": "Do you have to accept my offer?"},
+  {"id": 543, "tr": "Senın teklifimi kabul etmek zorunda mıyım?", "en": "Do I have to accept your offer?"},
   {"id": 544, "tr": "Neden senin teklifini kabul etmek zorundayım?", "en": "Why do I have to accept your offer?"},
 
   {"id": 545, "tr": "Ali benimle aynı fikirde olabilir.", "en": "Ali can agree with me."},
@@ -692,17 +692,17 @@
   {"id": 553, "tr": "Okul başvurumu onaylayabilirdi.", "en": "The school could approve my application."},
   {"id": 554, "tr": "Okul başvurumu onaylayamazdı.", "en": "The school couldn't approve my application."},
   {"id": 555, "tr": "Okul başvurunu onaylayabilir miydi?", "en": "Could the school approve your application?"},
-  {"id": 556, "tr": "Okul neyi onaylayabilirdi?", "en": "What could the school approve?"},
+  {"id": 556, "tr": "Okul ne zaman başvurumu onaylayabilirdi?", "en": "When could the school approve my application?"},
 
   {"id": 557, "tr": "Tüm teklifleri reddedebilirler.", "en": "They can reject all the offers."},
   {"id": 558, "tr": "Tüm teklifleri reddedemezler.", "en": "They can't reject all the offers."},
   {"id": 559, "tr": "Tüm teklifleri reddedebilirler mi?", "en": "Can they reject all the offers?"},
-  {"id": 560, "tr": "Onlar neleri reddedebilir?", "en": "What can they reject?"},
+  {"id": 560, "tr": "Onlar neden tüm teklifleri reddedebilirler?", "en": "Why can they reject all the offers?"},
 
   {"id": 561, "tr": "Ali hatasını inkar etse iyi olur.", "en": "Ali should deny his mistake."},
-  {"id": 562, "tr": "Ali hatasını inkar etmemesi iyi olur.", "en": "Ali shouldn't deny his mistake."},
-  {"id": 563, "tr": "Ali hatasını inkar etmeli mi?", "en": "Should Ali deny his mistake?"},
-  {"id": 564, "tr": "Ali neden hatasını inkar etmeli?", "en": "Why should Ali deny his mistake?"},
+  {"id": 562, "tr": "Ali hatasını inkar etse iyi olmaz.", "en": "Ali shouldn't deny his mistake."},
+  {"id": 563, "tr": "Ali hatasını inkar etse iyi olur mu?", "en": "Should Ali deny his mistake?"},
+  {"id": 564, "tr": "Ali neden hatasını inkar etse iyi olmaz?", "en": "Why shouldn't Ali deny his mistake?"},
 
   {"id": 565, "tr": "Ali isimleri hatırlamalı.", "en": "Ali must remember the names."},
   {"id": 566, "tr": "Ali isimleri hatırlamamalı.", "en": "Ali mustn't remember the names."},
@@ -712,22 +712,22 @@
   {"id": 569, "tr": "Belki arkadaşlarımla buluşurum.", "en": "I might meet my friends."},
   {"id": 570, "tr": "Belki arkadaşlarımla buluşmam.", "en": "I might not meet my friends."},
   {"id": 571, "tr": "Belki arkadaşlarınla buluşur musun?", "en": "Might you meet your friends?"},
-  {"id": 572, "tr": "Belki kiminle buluşurum?", "en": "Who might I meet?"},
+  {"id": 572, "tr": "Belki kiminle buluşursun?", "en": "Who might you meet?"},
 
-  {"id": 573, "tr": "Ayşe ile okulda karşılaşabilirim.", "en": "I can run into Ayse at school."},
-  {"id": 574, "tr": "Ayşe ile okulda karşılaşamam.", "en": "I can't run into Ayse at school."},
-  {"id": 575, "tr": "Ayşe ile okulda karşılaşabilir misin?", "en": "Can you run into Ayse at school?"},
-  {"id": 576, "tr": "Okulda kiminle karşılaşabilirim?", "en": "Who can I run into at school?"},
+  {"id": 573, "tr": "Ayşe ile okulda karşılaşabilirim.", "en": "I can meet  Ayse in the school."},
+  {"id": 574, "tr": "Ayşe ile okulda karşılaşamam.", "en": "I can't meet  Ayse in the school."},
+  {"id": 575, "tr": "Ayşe ile okulda karşılaşabilir misin?", "en": "Can you meet Ayse in the school?"},
+  {"id": 576, "tr": "Okulda kiminle karşılaşabilirim?", "en": "Who can I meet in the school?"},
 
-  {"id": 577, "tr": "Ali yeni arabasını bana göstermesi lazım.", "en": "Ali needs to show me his new car."},
-  {"id": 578, "tr": "Ali yeni arabasını bana göstermesine gerek yok.", "en": "Ali doesn't need to show me his new car."},
-  {"id": 579, "tr": "Ali yeni arabasını sana göstermesi gerekiyor mu?", "en": "Does Ali need to show you his new car?"},
-  {"id": 580, "tr": "Ali bana neyi göstermesi lazım?", "en": "What does Ali need to show me?"},
+  {"id": 577, "tr": "Alinin yeni arabasını bana göstermesi lazım.", "en": "Ali needs to show me his new car."},
+  {"id": 578, "tr": "Alinin yeni arabasını bana göstermesine gerek yok.", "en": "Ali doesn't need to show me his new car."},
+  {"id": 579, "tr": "Alinin yeni arabasını sana göstermesi gerekiyor mu?", "en": "Does Ali need to show you his new car?"},
+  {"id": 580, "tr": "Alinin bana neyi göstermesi lazım?", "en": "What does Ali need to show me?"},
 
   {"id": 581, "tr": "Onlar erken uyusa iyi olur.", "en": "They should sleep early."},
-  {"id": 582, "tr": "Onlar erken uyumaması iyi olur.", "en": "They shouldn't sleep early."},
-  {"id": 583, "tr": "Onlar erken uyumalı mı?", "en": "Should they sleep early?"},
-  {"id": 584, "tr": "Onlar ne zaman uyumalı?", "en": "When should they sleep?"},
+  {"id": 582, "tr": "Onlar erken uyusa iyi olmaz.", "en": "They shouldn't sleep early."},
+  {"id": 583, "tr": "Onlar erken uyusa iyi olur mu?", "en": "Should they sleep early?"},
+  {"id": 584, "tr": "Onlar ne zaman uyusa iyi olur?", "en": "When should they sleep?"},
 
   {"id": 585, "tr": "Sen geç uyanabilirsin.", "en": "You can wake up late."},
   {"id": 586, "tr": "Sen geç uyanamazsın.", "en": "You can't wake up late."},
@@ -795,9 +795,9 @@
   {"id": 636, "tr": "Ali her şeyi nasıl planlamalı?", "en": "How must Ali plan everything?"},
 
   {"id": 637, "tr": "Onlar bu yaz evlense iyi olur.", "en": "They should get married this summer."},
-  {"id": 638, "tr": "Onlar bu yaz evlenmemesi iyi olur.", "en": "They shouldn't get married this summer."},
-  {"id": 639, "tr": "Onlar bu yaz evlenmeli mi?", "en": "Should they get married this summer?"},
-  {"id": 640, "tr": "Onlar ne zaman evlenmeli?", "en": "When should they get married?"},
+  {"id": 638, "tr": "Onlar bu yaz evlense iyi olmaz.", "en": "They shouldn't get married this summer."},
+  {"id": 639, "tr": "Onlar bu yaz evlense iyi olur mu?", "en": "Should they get married this summer?"},
+  {"id": 640, "tr": "Onlar ne zaman evlense iyi olur?", "en": "When should they get married?"},
 
   {"id": 641, "tr": "Ayşe boşanmalı.", "en": "Ayse must get divorced."},
   {"id": 642, "tr": "Ayşe boşanmamalı.", "en": "Ayse mustn't get divorced."},
@@ -835,39 +835,39 @@
   {"id": 668, "tr": "Kuşlar ne zaman şarkı söylerdi?", "en": "When would the birds sing?"},
 
   {"id": 669, "tr": "Onlar kulübe katılsa iyi olur.", "en": "They should join the club."},
-  {"id": 670, "tr": "Onlar kulübe katılmaması iyi olur.", "en": "They shouldn't join the club."},
-  {"id": 671, "tr": "Onlar kulübe katılmalı mı?", "en": "Should they join the club?"},
-  {"id": 672, "tr": "Onlar ne zaman kulübe katılmalı?", "en": "When should they join the club?"},
+  {"id": 670, "tr": "Onlar kulübe katılsa iyi olmaz.", "en": "They shouldn't join the club."},
+  {"id": 671, "tr": "Onlar kulübe katılsa iyi olur mu?", "en": "Should they join the club?"},
+  {"id": 672, "tr": "Onlar ne zaman kulübe katılsa iyi olur?", "en": "When should they join the club?"},
 
   {"id": 673, "tr": "Ali her hafta bir toplantıya katılmalı.", "en": "Ali must attend a meeting every week."},
   {"id": 674, "tr": "Ali her hafta bir toplantıya katılmamalı.", "en": "Ali mustn't attend a meeting every week."},
   {"id": 675, "tr": "Ali her hafta bir toplantıya katılmalı mı?", "en": "Must Ali attend a meeting every week?"},
   {"id": 676, "tr": "Ali ne sıklıkla toplantıya katılmalı?", "en": "How often must Ali attend a meeting?"},
 
-  {"id": 677, "tr": "Sonbaharda yapraklar düşecek.", "en": "The leaves will fall in autumn."},
-  {"id": 678, "tr": "Sonbaharda yapraklar düşmeyecek.", "en": "The leaves won't fall in autumn."},
-  {"id": 679, "tr": "Sonbaharda yapraklar düşecek mi?", "en": "Will the leaves fall in autumn?"},
+  {"id": 677, "tr": "Sonbaharda yapraklar düşecek.", "en": "The leaves will fall in the autumn."},
+  {"id": 678, "tr": "Sonbaharda yapraklar düşmeyecek.", "en": "The leaves won't fall in the autumn."},
+  {"id": 679, "tr": "Sonbaharda yapraklar düşecek mi?", "en": "Will the leaves fall in the autumn?"},
   {"id": 680, "tr": "Yapraklar ne zaman düşecek?", "en": "When will the leaves fall?"},
 
-  {"id": 681, "tr": "Ayşe benimle kavga edebilir.", "en": "Ayse can argue with me."},
-  {"id": 682, "tr": "Ayşe benimle kavga edemez.", "en": "Ayse can't argue with me."},
-  {"id": 683, "tr": "Ayşe seninle kavga edebilir mi?", "en": "Can Ayse argue with you?"},
-  {"id": 684, "tr": "Ayşe kiminle kavga edebilir?", "en": "Who can Ayse argue with?"},
+  {"id": 681, "tr": "Ayşe benimle tartışabilir.", "en": "Ayse can argue with me."},
+  {"id": 682, "tr": "Ayşe benimle tartışamaz.", "en": "Ayse can't argue with me."},
+  {"id": 683, "tr": "Ayşe seninle tartışabilir mi?", "en": "Can Ayse argue with you?"},
+  {"id": 684, "tr": "Ayşe kiminle tartışabilir?", "en": "Who can Ayse argue with?"},
 
   {"id": 685, "tr": "Beni incitebilirdin.", "en": "You could hurt me."},
   {"id": 686, "tr": "Beni incitemezdin.", "en": "You couldn't hurt me."},
   {"id": 687, "tr": "Beni incitebilir miydin?", "en": "Could you hurt me?"},
   {"id": 688, "tr": "Kimi incitebilirdin?", "en": "Who could you hurt?"},
 
-  {"id": 689, "tr": "O insanlardan para çalardı.", "en": "He would steal money from people."},
-  {"id": 690, "tr": "O insanlardan para çalmazdı.", "en": "He wouldn't steal money from people."},
-  {"id": 691, "tr": "O insanlardan para çalar mıydı?", "en": "Would he steal money from people?"},
-  {"id": 692, "tr": "O kimden para çalardı?", "en": "Who would he steal money from?"},
+  {"id": 689, "tr": "O (erkek) insanlardan para çalardı.", "en": "He would steal money from people."},
+  {"id": 690, "tr": "O (erkek)insanlardan para çalmazdı.", "en": "He wouldn't steal money from people."},
+  {"id": 691, "tr": "O (erkek) insanlardan para çalar mıydı?", "en": "Would he steal money from people?"},
+  {"id": 692, "tr": "O (erkek) kimden para çalardı?", "en": "Who would he steal money from?"},
 
   {"id": 693, "tr": "Sözlerimi tutmalıyım.", "en": "I must keep my words."},
   {"id": 694, "tr": "Sözlerimi tutmamalıyım.", "en": "I mustn't keep my words."},
   {"id": 695, "tr": "Sözlerini tutmalı mısın?", "en": "Must you keep your words?"},
-  {"id": 696, "tr": "Neden sözlerimi tutmalıyım?", "en": "Why must I keep my words?"},
+  {"id": 696, "tr": "Neden sözlerini tutmalısın?", "en": "Why must you keep your words?"},
 
   {"id": 697, "tr": "Ali gerçeği saklamalı.", "en": "Ali must hide the truth."},
   {"id": 698, "tr": "Ali gerçeği saklamamalı.", "en": "Ali mustn't hide the truth."},
@@ -879,10 +879,10 @@
   {"id": 703, "tr": "Murat topu yakalayabilir mi?", "en": "Can Murat catch the ball?"},
   {"id": 704, "tr": "Murat neyi yakalayabilir?", "en": "What can Murat catch?"},
 
-  {"id": 705, "tr": "Araba tamir edebilirdi.", "en": "He could repair cars."},
-  {"id": 706, "tr": "Araba tamir edemezdi.", "en": "He couldn't repair cars."},
-  {"id": 707, "tr": "Araba tamir edebilir miydi?", "en": "Could he repair cars?"},
-  {"id": 708, "tr": "Neyi tamir edebilirdi?", "en": "What could he repair?"},
+  {"id": 705, "tr": "O (erkek) arabayı tamir edebilirdi.", "en": "He could repair the car."},
+  {"id": 706, "tr": "O (erkek) arabayı tamir edemezdi.", "en": "He couldn't repair the car."},
+  {"id": 707, "tr": "O (erkek) arabayı tamir edebilir miydi?", "en": "Could he repair the car?"},
+  {"id": 708, "tr": "O (erkek) arabayı ne zaman tamir edebilirdi?", "en": "When could he repair the car?"},
 
   {"id": 709, "tr": "Sorunlarımızı beraberce çözebilirdik.", "en": "We could solve our problems together."},
   {"id": 710, "tr": "Sorunlarımızı beraberce çözemezdik.", "en": "We couldn't solve our problems together."},
