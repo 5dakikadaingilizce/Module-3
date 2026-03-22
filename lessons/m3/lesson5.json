@@ -1,13 +1,13 @@
 [
-  {"id": 1, "tr": "Ali yarın okula gidecek.", "en": "Ali will go to school tomorrow."},
-  {"id": 2, "tr": "Ali yarın okula gitmeyecek.", "en": "Ali won't go to school tomorrow."},
-  {"id": 3, "tr": "Ali yarın okula gidecek mi?", "en": "Will Ali go to school tomorrow?"},
+  {"id": 1, "tr": "Ali yarın okula gidecek.", "en": "Ali will go to the school tomorrow."},
+  {"id": 2, "tr": "Ali yarın okula gitmeyecek.", "en": "Ali won't go to the school tomorrow."},
+  {"id": 3, "tr": "Ali yarın okula gidecek mi?", "en": "Will Ali go to the school tomorrow?"},
   {"id": 4, "tr": "Ali yarın okula saat kaçta gidecek?", "en": "What time will Ali go to the school tomorrow?"},
 
-  {"id": 5, "tr": "Ayşe bir doktor olacak.", "en": "Ayse will be a doctor."},
-  {"id": 6, "tr": "Ayşe bir doktor olmayacak.", "en": "Ayse won't be a doctor."},
-  {"id": 7, "tr": "Ayşe bir doktor olacak mı?", "en": "Will Ayse be a doctor?"},
-  {"id": 8, "tr": "Ayşe ne zaman doktor olacak?", "en": "When will Ayse be a doctor?"},
+  {"id": 5, "tr": "Ayşe bir doktor olacak.", "en": "Ayse will become a doctor."},
+  {"id": 6, "tr": "Ayşe bir doktor olmayacak.", "en": "Ayse won't become a doctor."},
+  {"id": 7, "tr": "Ayşe bir doktor olacak mı?", "en": "Will Ayse become a doctor?"},
+  {"id": 8, "tr": "Ayşe ne zaman doktor olacak?", "en": "When will Ayse become a doctor?"},
 
   {"id": 9, "tr": "Her şey iyi olacak.", "en": "Everything will be fine."},
   {"id": 10, "tr": "Her şey iyi olmayacak.", "en": "Everything won't be fine."},
