@@ -918,7 +918,7 @@
   {"id": 917, "tr": "Bu odada saat 4'te önemli bir toplantı var.", "en": "There is an important meeting in this room at 4 o'clock."},
   {"id": 918, "tr": "Gözümde bir şey var.", "en": "There is something in my eye."},
   {"id": 919, "tr": "Kalbimde birisi var.", "en": "There is someone in my heart."},
-  {"id": 920, "tr": "Sen benim kaç param olduğunu biliyor musun?", "en": "Do you know that how much money I have?"},
-  {"id": 921, "tr": "Sen benim ne kadar vaktimin olduğunu biliyor musun?", "en": "Do you know that how much time I have?"},
-  {"id": 922, "tr": "Siz benim kaç tane arkadaşım olduğunu biliyor musunuz?", "en": "Do you know that how many friends I have?"}
+  {"id": 920, "tr": "Sen benim kaç param olduğunu biliyor musun?", "en": "Do you know how much money I have?"},
+  {"id": 921, "tr": "Sen benim ne kadar vaktimin olduğunu biliyor musun?", "en": "Do you know  how much time I have?"},
+  {"id": 922, "tr": "Siz benim kaç tane arkadaşım olduğunu biliyor musunuz?", "en": "Do you know how many friends I have?"}
 ]
