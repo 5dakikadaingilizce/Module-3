@@ -89,13 +89,13 @@
         ["OVER", "Üzerinden", "Üzerinden geçerek"],
         ["INTO", "İçine →", "İçine doğru"],
         ["OUT OF", "← Dışına", "İçinden dışarı"],
-        ["THROUGH", "→ içinden →", "İçinden geçerek"],
+        ["THROUGH", "→ içinden dışına doğru →", "İçinden geçerek"],
         ["ALONG", "Paralel →", "Boyunca"],
-        ["ACROSS", "Dikine →", "Karşıdan karşıya"],
+        ["ACROSS", "Dikine ↑ ", "Karşıdan karşıya"],
         ["AROUND", "↻ Dairesel", "Etrafında / Çevresinde"],
         ["TO", "→ Hedefe", "Bir yere doğru"],
-        ["TOWARDS", "→ Yaklaşarak", "Üzerine doğru"],
-        ["AWAY FROM", "← Uzaklaşarak", "Uzağa doğru"]
+        ["TOWARDS", "→... e doğru", "Üzerine doğru"],
+        ["AWAY FROM", "← ...dan uzağa", "Uzağa doğru"]
       ]
     },
     {
@@ -120,7 +120,7 @@
         {
           "tag": "INTO / OUT OF",
           "color": "amber",
-          "text": "She went into the room. → Odaya girdi.\nHe came out of the building. → Binadan çıktı."
+          "text": "She went into the room. → Odaya girdi.\nHe went out of the building. → Binadan çıktı."
         },
         {
           "tag": "THROUGH",
