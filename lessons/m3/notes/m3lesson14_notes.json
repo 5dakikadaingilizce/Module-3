@@ -13,12 +13,12 @@
         {
           "heading": "TİP 1 — Özne ile Fiil Arasını Sevenler",
           "color": "teal",
-          "content": "Bu zarflar özne ile fiil arasına girer:\n\n Always\nUsually \nOften \nSometimes \nSeldom-Rarely \nNever"
+          "content": "Bu zarflar özne ile fiil arasına girer:\n\n Always/ \nUsually / \nOften/  \nSometimes / \nSeldom-Rarely/  \nNever"
         },
         {
           "heading": "TİP 2 — Cümlenin Sonunu Sevenler",
           "color": "pink",
-          "content": "Bu zarflar cümlenin sonuna eklenir.\n\nEvery day / every week / every month / every year\nOnce a week / twice a month / three times a week / five times a day\nOnce in a life time / twice this week / a million times / a hundred times"
+          "content": "Bu zarflar cümlenin sonuna eklenir.\n\nEvery day / every week / every month / every year /\nOnce a week / twice a month / three times a week / five times a day/\nOnce in a life time / twice this week / a million times / a hundred times"
         }
       ]
     },
