@@ -218,15 +218,11 @@
           "text": "I will be there soon. → Yakında orada olacağım.\nI won't make the same mistake in the future. → Gelecekte aynı hatayı yapmayacağım.\nI will be free as a bird in a while. → Bir süre sonra kuş gibi özgür olacağım.\nThere will be an important meeting next week. → Gelecek hafta önemli bir toplantı olacak.\nI will go to a picnic with my friends tomorrow. → Yarın arkadaşlarımla pikniğe gideceğim.\nI will be able to help you 10 minutes later. → 10 dakika sonra sana yardım edebileceğim."
         },
         {
-          "tag": "Hepsi — Morning / Noon / Night...",
+          "tag": "Hepsi — Morning / Noon / Night / At the same time / All the time / For the last time...",
           "color": "purple",
-          "text": "I woke up in the morning. → Sabahleyin uyandım.\nWe always go to lunch at noon. → Her zaman öğlenleyin öğle yemeğine gideriz.\nYou should study in the afternoon. → Öğleden sonra çalışmalısın.\nWe will go to İftar in the evening. → Akşamleyin iftara gideceğiz.\nI didn't sleep at night. → Geceleyin uyuyamadım."
+          "text": "I woke up in the morning. → Sabahleyin uyandım.\nWe always go to lunch at noon. → Her zaman öğlenleyin öğle yemeğine gideriz.\nYou should study in the afternoon. → Öğleden sonra çalışmalısın.\nWe will go to İftar in the evening. → Akşamleyin iftara gideceğiz.\nI didn't sleep at night. → Geceleyin uyuyamadım. \n We finished the race at the same time. → Yarışı aynı anda bitirdik.\nAli eats unhealthy food all the time. → Ali sürekli olarak sağlıksız yiyecekler yer.\nI am telling you for the last time. You must come to work on time. → Sana son kez söylüyorum. İşe zamanında gelmelisin."
         },
-        {
-          "tag": "Hepsi — At the same time / All the time / For the last time...",
-          "color": "purple",
-          "text": "We finished the race at the same time. → Yarışı aynı anda bitirdik.\nAli eats unhealthy food all the time. → Ali sürekli olarak sağlıksız yiyecekler yer.\nI am telling you for the last time. You must come to work on time. → Sana son kez söylüyorum. İşe zamanında gelmelisin."
-        },
+
         {
           "tag": "IN — Yıl / Ay / Mevsim / Süre",
           "color": "teal",
