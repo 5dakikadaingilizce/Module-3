@@ -209,13 +209,9 @@
         {
           "tag": "Past Simple — Yesterday / Ago / Last...",
           "color": "pink",
-          "text": "I was an unexperienced engineer then. → O zamanlar deneyimsiz bir mühendistim.\nI lived in Ankara in the past. → Geçmişte Ankara'da yaşadım.\nI saw Ayşe at the bazaar last week. → Geçen hafta Ayşe'yi çarşıda gördüm.\nI didn't see her yesterday. → Onu dün görmedim.\nShe was at work the day before yesterday. → Evvelsi gün işteyi.\nAli opened a new business two weeks ago. → Ali iki hafta önce yeni bir iş kurdu.\nThey moved from Germany to Turkey 5 years ago. → 5 yıl önce Almanya'dan Türkiye'ye taşındılar."
+          "text": "I was an unexperienced engineer then. → O zamanlar deneyimsiz bir mühendistim.\nI lived in Ankara in the past. → Geçmişte Ankara'da yaşadım.\nI saw Ayşe at the bazaar last week. → Geçen hafta Ayşe'yi çarşıda gördüm.\nI didn't see her yesterday. → Onu dün görmedim.\nShe was at work the day before yesterday. → Evvelsi gün işteyi.\nAli opened a new business two weeks ago. → Ali iki hafta önce yeni bir iş kurdu.\nThey moved from Germany to Turkey 5 years ago. → 5 yıl önce Almanya'dan Türkiye'ye taşındılar. \n Once upon a time, there were two brothers living in a little village. → Bir zamanlar küçük bir köyde yaşayan iki kardeş varmış."
         },
-        {
-          "tag": "Past Simple — Once upon a time",
-          "color": "pink",
-          "text": "Once upon a time, there were two brothers living in a little village. → Bir zamanlar küçük bir köyde yaşayan iki kardeş varmış."
-        },
+
         {
           "tag": "Future — Soon / Tomorrow / Next...",
           "color": "amber",
@@ -227,7 +223,7 @@
           "text": "I woke up in the morning. → Sabahleyin uyandım.\nWe always go to lunch at noon. → Her zaman öğlenleyin öğle yemeğine gideriz.\nYou should study in the afternoon. → Öğleden sonra çalışmalısın.\nWe will go to İftar in the evening. → Akşamleyin iftara gideceğiz.\nI didn't sleep at night. → Geceleyin uyuyamadım."
         },
         {
-          "tag": "Hepsi — At the same time / All the time / For the last time",
+          "tag": "Hepsi — At the same time / All the time / For the last time...",
           "color": "purple",
           "text": "We finished the race at the same time. → Yarışı aynı anda bitirdik.\nAli eats unhealthy food all the time. → Ali sürekli olarak sağlıksız yiyecekler yer.\nI am telling you for the last time. You must come to work on time. → Sana son kez söylüyorum. İşe zamanında gelmelisin."
         },
