@@ -1,7 +1,7 @@
 [
   {"id": 1, "tr": "Hep / Her zaman", "en": "Always"},
   {"id": 2, "tr": "Durmadan", "en": "Always"},
-  {"id": 3, "tr": "Genellikle", "en": " Usually"},
+  {"id": 3, "tr": "Genellikle", "en": "Usually"},
   {"id": 4, "tr": "Bazen", "en": "Sometimes"},
   {"id": 5, "tr": "Sık sık", "en": "Often"},
   {"id": 6, "tr": "Nadiren", "en": "Rarely / Seldom"},
