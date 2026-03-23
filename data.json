@@ -12,6 +12,7 @@
   { "id": 11,  "name": "Lesson #11",  "subTitle": "Tell - Say - Ask - Kullanımı ",                               "file": "lessons/m3/lesson11.json",  "logo": "lessonlogo11.svg"  },
   { "id": 12,  "name": "Lesson #12",  "subTitle": "PREPOSITIONS OF MOVEMENT",                               "file": "lessons/m3/lesson12.json",  "logo": "lessonlogo12.svg", "notes": "lessons/m3/notes/m3lesson12_notes.json"  },
   { "id": 13,  "name": "Lesson #13",  "subTitle": "ADVERBS OF MANNER",                               "file": "lessons/m3/lesson13.json",  "logo": "lessonlogo13.svg", "notes": "lessons/m3/notes/m3lesson13_notes.json"  },
+  { "id": 14,  "name": "Lesson #14",  "subTitle": "ADVERBS OF FREQUENCY",                               "file": "lessons/m3/lesson14.json",  "logo": "lessonlogo14.svg", "notes": "lessons/m3/notes/m3lesson14_notes.json"  },
 
 
   
