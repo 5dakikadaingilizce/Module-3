@@ -13,12 +13,12 @@
         {
           "heading": "TİP 1 — Özne ile Fiil Arasını Sevenler",
           "color": "teal",
-          "content": "Bu zarflar özne ile fiil arasına girer. Yapış sıklığına göre yüzde tablosu:\n\nAlways %100 → Hep / Daima\nUsually %80 → Genellikle\nOften %70 → Sık sık\nSometimes %40-50 → Bazen\nSeldom %10 → Nadiren\nNever %0 → Asla"
+          "content": "Bu zarflar özne ile fiil arasına girer:\n\n Always\nUsually \nOften \nSometimes \nSeldom-Rarely \nNever"
         },
         {
           "heading": "TİP 2 — Cümlenin Sonunu Sevenler",
           "color": "pink",
-          "content": "Bu zarflar cümlenin sonuna eklenir.\n\nEvery day / every week / every month / every year\nOnce a week / twice a month / three times a week / five times a day\nOnce in a lifetime / twice this week / a million times / a hundred times"
+          "content": "Bu zarflar cümlenin sonuna eklenir.\n\nEvery day / every week / every month / every year\nOnce a week / twice a month / three times a week / five times a day\nOnce in a life time / twice this week / a million times / a hundred times"
         }
       ]
     },
@@ -32,11 +32,11 @@
         ["Often", "%70", "Sık sık", "Özne + OFTEN + fiil"],
         ["Sometimes", "%40-50", "Bazen", "Özne + SOMETIMES + fiil"],
         ["Seldom", "%10", "Nadiren", "Özne + SELDOM + fiil"],
-        ["Rarely", "%10", "Nadiren", "Özne + RAREY + fiil"],
+        ["Rarely", "%10", "Nadiren", "Özne + RARELY + fiil"],
         ["Never", "%0", "Asla", "Özne + NEVER + fiil"],
         ["Every day/week...", "-", "Her gün/hafta...", "Cümlenin sonu"],
-        ["Once/twice a week...", "-", "Haftada bir/iki kez...", "Cümlenin sonu"],
-        ["Once in a lifetime", "-", "Hayatta bir kez", "Cümlenin sonu"]
+        ["Once/twice/ three times a week...", "-", "Haftada bir/iki/üç kez...", "Cümlenin sonu"],
+        ["Once in a life time", "-", "Hayatta bir kez", "Cümlenin sonu"]
       ]
     },
     {
@@ -46,7 +46,7 @@
         {
           "tag": "ALWAYS",
           "color": "purple",
-          "text": "I always drink a mug of coffee after I wake up. → Uyandıktan sonra her zaman bir kupa kahve içerim."
+          "text": "I always drink a cup of coffee after I wake up. → Uyandıktan sonra her zaman bir kupa kahve içerim."
         },
         {
           "tag": "USUALLY",
@@ -81,12 +81,12 @@
         {
           "tag": "Once / Twice...",
           "color": "amber",
-          "text": "We used to go on holiday once a year. But we can't afford it now. → Yılda bir kez tatile giderdik. Ama artık karşılayamıyoruz.\nThe Muslims pray five times a day. → Müslümanlar günde beş kez namaz kılar.\nI try to go to the gym twice a week. → Haftada iki kez spor salonuna gitmeye çalışıyorum."
+          "text": "We go on holiday once a year. → Yılda bir kez tatile gideriz. \nThe Muslims pray five times a day. → Müslümanlar günde beş kez namaz kılar.\nI try to go to the gym twice a week. → Haftada iki kez spor salonuna gitmeye çalışıyorum."
         },
         {
           "tag": "Once in a lifetime / A million times",
           "color": "purple",
-          "text": "This is a chance that you will see once in a lifetime. → Bu hayatta bir kez göreceğin bir fırsattır.\nI told him not to be rude to his mother a million times. → Annesine kaba davranmamasını ona milyon kez söyledim."
+          "text": "This is a chance that you will see once in a life time. → Bu hayatta bir kez göreceğin bir fırsattır.\nI told him not to be rude to his mother a million times. → Annesine kaba davranmamasını ona milyon kez söyledim."
         }
       ]
     }
