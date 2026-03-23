@@ -1,0 +1,117 @@
+{
+  "title": "Adverbs of Time Notes",
+  "tabs": [
+    {
+      "label": "Konu",
+      "type": "text",
+      "items": [
+        {
+          "heading": "ADVERBS OF TIME NEDİR?",
+          "color": "purple",
+          "content": "Zaman zarflarıdır. WHEN sorusunun olası tüm cevaplarıdır. Cümlede ne zaman yapıldığını anlatır."
+        },
+        {
+          "heading": "PRESENT CONTINUOUS SEVENLER",
+          "color": "teal",
+          "content": "Now → Şimdi\nAt the present → Şu anda\nAt the moment → Şu anda\nCurrently → Şu anda\n\nI am working now.\nWe are having a meeting at the present.\nHe is running in the forest at the moment.\nI am speaking with a customer currently."
+        },
+        {
+          "heading": "PAST SIMPLE SEVENLER",
+          "color": "pink",
+          "content": "Then → Bir zamanlar\nIn the past → Geçmişte\nLast week → Geçen hafta\nLast month → Geçen ay\nYesterday → Dün\nThe day before yesterday → Evvelsi gün\nTwo days ago → İki gün önce\nFive years ago → Beş yıl önce\nOnce upon a time → Bir zamanlar\n\nI was an unexperienced engineer then.\nI lived in Ankara in the past.\nI saw Ayşe at the bazaar last week.\nMurat finished university last year.\nI didn't see her yesterday.\nShe was at work the day before yesterday.\nAli opened a new business two weeks ago.\nThey moved from Germany to Turkey 5 years ago.\nOnce upon a time, there were two brothers living in a little village."
+        },
+        {
+          "heading": "FUTURE SEVENLER",
+          "color": "amber",
+          "content": "Soon → Yakında\nIn the future → Gelecekte\nIn a while → Bir süre sonra\nNext week → Gelecek hafta\nNext month → Gelecek ay\nTomorrow → Yarın\n10 minutes later → 10 dakika sonra\n3 hours later → 3 saat sonra\n\nI will be there soon.\nI won't make the same mistake in the future.\nI will be free as a bird in a while.\nThere will be an important meeting next week.\nI will go to a picnic with my friends tomorrow.\nI will be able to help you 10 minutes later."
+        },
+        {
+          "heading": "HEPSİNİ SEVENLER",
+          "color": "purple",
+          "content": "In the morning → Sabahleyin\nAt noon → Öğlenleyin\nIn the afternoon → Öğleden sonra\nIn the evening → Akşamleyin\nAt night → Geceleyin\nThis week → Bu hafta\nAt the same time → Aynı anda\nFor a while → Bir süredir\nBefore the school → Okuldan önce\nAfter the break → Molanın ardından\nAll the time → Sürekli olarak\nFor the first time → İlk defa\nFor the last time → Son kez\n\nI woke up in the morning.\nWe always go to lunch at noon.\nYou should study in the afternoon.\nWe will go to İftar in the evening.\nI didn't sleep at night.\nWe finished the race at the same time.\nAli eats unhealthy food all the time.\nI am telling you for the last time. You must come to work on time."
+        },
+        {
+          "heading": "IN / ON / AT — Zaman Edatları",
+          "color": "teal",
+          "content": "Bunlar da WHEN sorusunun cevabı olabilir!\n\nIN → Uzun zaman dilimleri için\nIn 2010 / In the spring / In June / In 2 weeks / In a day / In 10 minutes / In the morning / In the afternoon / In the evening\n\nON → Günler ve tarihler için\nOn Wednesday / On my birthday / On the 8th of May\n\nAT → Saat ve belirli anlar için\nAt 9 o'clock / At the beginning of March / At the end of the year"
+        }
+      ]
+    },
+    {
+      "label": "Yapı",
+      "type": "table",
+      "headers": ["Zarf / Edat", "Türkçe", "Kullanım"],
+      "rows": [
+        ["Now / At the moment", "Şimdi / Şu anda", "Present Continuous"],
+        ["Currently / At the present", "Şu anda", "Present Continuous"],
+        ["Then / In the past", "Bir zamanlar / Geçmişte", "Past Simple"],
+        ["Yesterday / Last week", "Dün / Geçen hafta", "Past Simple"],
+        ["... ago", "... önce", "Past Simple"],
+        ["The day before yesterday", "Evvelsi gün", "Past Simple"],
+        ["Once upon a time", "Bir zamanlar", "Past Simple"],
+        ["Soon / In the future", "Yakında / Gelecekte", "Future"],
+        ["Tomorrow / Next week", "Yarın / Gelecek hafta", "Future"],
+        ["... later", "... sonra", "Future"],
+        ["In a while", "Bir süre sonra", "Future"],
+        ["In the morning/afternoon", "Sabahleyin / Öğleden sonra", "Hepsi"],
+        ["At noon / At night", "Öğlenleyin / Geceleyin", "Hepsi"],
+        ["At the same time", "Aynı anda", "Hepsi"],
+        ["For the first/last time", "İlk / Son kez", "Hepsi"],
+        ["IN + yıl/ay/mevsim", "2010'da / Haziran'da", "Zaman Edatı"],
+        ["ON + gün/tarih", "Çarşamba'da / 8 Mayıs'ta", "Zaman Edatı"],
+        ["AT + saat/özel an", "Saat 9'da / Martın başında", "Zaman Edatı"]
+      ]
+    },
+    {
+      "label": "Örnekler",
+      "type": "examples",
+      "items": [
+        {
+          "tag": "Present Continuous — Now / At the moment",
+          "color": "teal",
+          "text": "I am working now. → Şimdi çalışıyorum.\nWe are having a meeting at the present. → Şu anda toplantıdayız.\nHe is running in the forest at the moment. → Şu anda ormanda koşuyor.\nI am speaking with a customer currently. → Şu anda bir müşteriyle konuşuyorum."
+        },
+        {
+          "tag": "Past Simple — Yesterday / Ago / Last...",
+          "color": "pink",
+          "text": "I was an unexperienced engineer then. → O zamanlar deneyimsiz bir mühendistim.\nI lived in Ankara in the past. → Geçmişte Ankara'da yaşadım.\nI saw Ayşe at the bazaar last week. → Geçen hafta Ayşe'yi çarşıda gördüm.\nI didn't see her yesterday. → Onu dün görmedim.\nShe was at work the day before yesterday. → Evvelsi gün işteyi.\nAli opened a new business two weeks ago. → Ali iki hafta önce yeni bir iş kurdu.\nThey moved from Germany to Turkey 5 years ago. → 5 yıl önce Almanya'dan Türkiye'ye taşındılar."
+        },
+        {
+          "tag": "Past Simple — Once upon a time",
+          "color": "pink",
+          "text": "Once upon a time, there were two brothers living in a little village. → Bir zamanlar küçük bir köyde yaşayan iki kardeş varmış."
+        },
+        {
+          "tag": "Future — Soon / Tomorrow / Next...",
+          "color": "amber",
+          "text": "I will be there soon. → Yakında orada olacağım.\nI won't make the same mistake in the future. → Gelecekte aynı hatayı yapmayacağım.\nI will be free as a bird in a while. → Bir süre sonra kuş gibi özgür olacağım.\nThere will be an important meeting next week. → Gelecek hafta önemli bir toplantı olacak.\nI will go to a picnic with my friends tomorrow. → Yarın arkadaşlarımla pikniğe gideceğim.\nI will be able to help you 10 minutes later. → 10 dakika sonra sana yardım edebileceğim."
+        },
+        {
+          "tag": "Hepsi — Morning / Noon / Night...",
+          "color": "purple",
+          "text": "I woke up in the morning. → Sabahleyin uyandım.\nWe always go to lunch at noon. → Her zaman öğlenleyin öğle yemeğine gideriz.\nYou should study in the afternoon. → Öğleden sonra çalışmalısın.\nWe will go to İftar in the evening. → Akşamleyin iftara gideceğiz.\nI didn't sleep at night. → Geceleyin uyuyamadım."
+        },
+        {
+          "tag": "Hepsi — At the same time / All the time / For the last time",
+          "color": "purple",
+          "text": "We finished the race at the same time. → Yarışı aynı anda bitirdik.\nAli eats unhealthy food all the time. → Ali sürekli olarak sağlıksız yiyecekler yer.\nI am telling you for the last time. You must come to work on time. → Sana son kez söylüyorum. İşe zamanında gelmelisin."
+        },
+        {
+          "tag": "IN — Yıl / Ay / Mevsim / Süre",
+          "color": "teal",
+          "text": "In 2010 → 2010'da\nIn the spring → İlkbaharda\nIn June → Haziran'da\nIn 2 weeks → 2 hafta içinde\nIn 10 minutes → 10 dakika içinde\nIn the morning → Sabahleyin\nIn the afternoon → Öğleden sonra\nIn the evening → Akşamleyin"
+        },
+        {
+          "tag": "ON — Gün / Tarih",
+          "color": "pink",
+          "text": "On Wednesday → Çarşamba günü\nOn my birthday → Doğum günümde\nOn the 8th of May → 8 Mayıs'ta"
+        },
+        {
+          "tag": "AT — Saat / Özel An",
+          "color": "amber",
+          "text": "At 9 o'clock → Saat 9'da\nAt the beginning of March → Martın başında\nAt the end of the year → Yılın sonunda"
+        }
+      ]
+    }
+  ]
+}
