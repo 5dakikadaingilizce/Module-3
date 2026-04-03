@@ -14,6 +14,7 @@
   { "id": 13,  "name": "Lesson #13",  "subTitle": "ADVERBS OF MANNER",                               "file": "lessons/m3/lesson13.json",  "logo": "lessonlogo13.svg", "notes": "lessons/m3/notes/m3lesson13_notes.json"  },
   { "id": 14,  "name": "Lesson #14",  "subTitle": "ADVERBS OF FREQUENCY",                               "file": "lessons/m3/lesson14.json",  "logo": "lessonlogo14.svg", "notes": "lessons/m3/notes/m3lesson14_notes.json"  },
   { "id": 15,  "name": "Lesson #15",  "subTitle": "ADVERBS OF TIME",                               "file": "lessons/m3/lesson15.json",  "logo": "lessonlogo15.svg", "notes": "lessons/m3/notes/m3lesson15_notes.json"  },
+  { "id": 16,  "name": "Lesson #16",  "subTitle": "ADVERBS OF PLACE",                               "file": "lessons/m3/lesson16.json",  "logo": "lessonlogo16.svg", "notes": "lessons/m3/notes/m3lesson16_notes.json"  },
 
 
   
