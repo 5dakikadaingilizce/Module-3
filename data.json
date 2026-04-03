@@ -15,7 +15,7 @@
   { "id": 14,  "name": "Lesson #14",  "subTitle": "ADVERBS OF FREQUENCY",                               "file": "lessons/m3/lesson14.json",  "logo": "lessonlogo14.svg", "notes": "lessons/m3/notes/m3lesson14_notes.json"  },
   { "id": 15,  "name": "Lesson #15",  "subTitle": "ADVERBS OF TIME",                               "file": "lessons/m3/lesson15.json",  "logo": "lessonlogo15.svg", "notes": "lessons/m3/notes/m3lesson15_notes.json"  },
   { "id": 16,  "name": "Lesson #16",  "subTitle": "ADVERBS OF PLACE",                               "file": "lessons/m3/lesson16.json",  "logo": "lessonlogo16.svg", "notes": "lessons/m3/notes/m3lesson16_notes.json"  },
-  { "id": 17,  "name": "Lesson #17",  "subTitle": "Hayali bir it yapmak",                               "file": "lessons/m3/lesson17.json",  "logo": "lessonlogo17.svg"  },
+  { "id": 17,  "name": "Lesson #17",  "subTitle": "Hayali it ",                               "file": "lessons/m3/lesson17.json",  "logo": "lessonlogo17.svg"  },
 
 
   
