@@ -35,13 +35,9 @@
         {
           "tag": "NEITHER ... NOR — Ne ... Ne de",
           "color": "pink",
-          "text": "Neither the teacher nor the students enjoyed the lesson. → Ne öğretmen ne de öğrenciler dersten zevk aldı.\nNeither Mexico nor Argentina are in Europe. → Ne Meksika ne de Arjantin Avrupa'dadır.\nNeither of them is happy. → Onların ikisi de mutlu değil."
-        },
-        {
-          "tag": "ÖZEL CÜMLE — Peace & Fame",
-          "color": "purple",
-          "text": "I want neither money nor fame in this life. I only want peace. → Bu hayatta ne para ne de şöhret istiyorum. Sadece huzur istiyorum."
+          "text": "Neither the teacher nor the students enjoyed the lesson. → Ne öğretmen ne de öğrenciler dersten zevk aldı.\nNeither Mexico nor Argentina are in Europe. → Ne Meksika ne de Arjantin Avrupa'dadır.\nNeither of them is happy. → Onların ikisi de mutlu değil.\nI want neither money nor fame in this life. I only want peace. → Bu hayatta ne para ne de şöhret istiyorum. Sadece huzur istiyorum."
         }
+
       ]
     }
   ]
