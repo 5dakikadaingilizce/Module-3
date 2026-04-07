@@ -18,6 +18,7 @@
   { "id": 17,  "name": "Lesson #17",  "subTitle": "Hayali it ",                                                      "file": "lessons/m3/lesson17.json",  "logo": "lessonlogo17.svg" },
   { "id": 18,  "name": "Lesson #18",  "subTitle": "AND-BUT-OR- BECAUSE-SO-HOWEVER-ALTHOUGH–TO",                      "file": "lessons/m3/lesson18.json",  "logo": "lessonlogo18.svg", "notes": "lessons/m3/notes/m3lesson18_notes.json"  },
   { "id": 19,  "name": "Lesson #19",  "subTitle": "AFTER- BEFORE- DURİNG- UNTİL- WHEN- AS SOON AS",                      "file": "lessons/m3/lesson19.json",  "logo": "lessonlogo19.svg", "notes": "lessons/m3/notes/m3lesson19_notes.json" },
+  { "id": 20,  "name": "Lesson #20",  "subTitle": "BOTH - EITHER - NEITHER",                      "file": "lessons/m3/lesson20.json",  "logo": "lessonlogo20.svg", "notes": "lessons/m3/notes/m3lesson20_notes.json" },
 
   
   { "id": 28, "name": "Lesson #28", "subTitle": "When / While",                                                  "file": "lessons/m3/lesson28.json", "logo": "lessonlogo28.svg" },
