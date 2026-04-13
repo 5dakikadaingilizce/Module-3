@@ -1,1 +1,76 @@
-a
+{
+  "title": "EVERY– / SOME– Zamirleri",
+  "tabs": [
+    {
+      "label": "EVERY– Grubu (Her…)",
+      "type": "table",
+      "headers": ["Zamir", "Türkçe Anlamı", "Örnek Cümle"],
+      "rows": [
+        ["EVERYBODY / EVERYONE", "Herkes", "Everybody is here. / Everyone wants to go to heaven."],
+        ["EVERYTHING", "Her şey", "Everything is okay. / I want to eat everything in the fridge."],
+        ["EVERYWHERE", "Her yer / Her yerde", "Everywhere is green. / I can live everywhere."]
+      ]
+    },
+    {
+      "label": "SOME– Grubu (Biri / Bir şey…)",
+      "type": "table",
+      "headers": ["Zamir", "Türkçe Anlamı", "Örnek Cümle"],
+      "rows": [
+        ["SOMEBODY / SOMEONE", "Birisi / Biri", "Somebody knocked on the door. / Someone is waiting for you outside."],
+        ["SOMETHING", "Bir şey", "Something is wrong. / I have something to tell you. / Give them something to eat."],
+        ["SOMEWHERE", "Bir yere / Bir yerde", "I need to go somewhere different. / Ali lives somewhere in Ordu. / I left my keys somewhere in the kitchen."]
+      ]
+    },
+    {
+      "label": "Dersten Cümle Kalıpları",
+      "type": "table",
+      "headers": ["Türkçe", "İngilizce", "Zamir"],
+      "rows": [
+        ["Herkes burada.", "Everybody is here.", "EVERYBODY"],
+        ["Herkes biliyor.", "Everybody knows.", "EVERYBODY"],
+        ["Herkes onların yalan söylediğini biliyor.", "Everybody knows that they are lying.", "EVERYBODY"],
+        ["Türkiye'nin önemli sorunları olduğunu herkes görüyor.", "Everybody sees that Turkey has important problems.", "EVERYBODY"],
+        ["Herkes cennete gitmek istiyor.", "Everybody wants to go to heaven.", "EVERYBODY"],
+        ["Herkes mutlu olmak ister.", "Everybody wants to be happy.", "EVERYBODY"],
+        ["Herkes mutlu olmayı hak eder.", "Everybody deserves to be happy.", "EVERYBODY"],
+        ["Ofisteki herkes doğum günümü kutladı.", "Everybody in the office celebrated my birthday.", "EVERYBODY"],
+        ["Her şey yolunda.", "Everything is okay.", "EVERYTHING"],
+        ["Her şeyi gördüm.", "I saw everything.", "EVERYTHING"],
+        ["İngilizce hakkında her şey bu kanalda.", "Everything about English is on this channel.", "EVERYTHING"],
+        ["Buzdolabındaki her şeyi yemek istiyorum.", "I want to eat everything in the fridge.", "EVERYTHING"],
+        ["Senin için her şeyi yapabilirim.", "I can do everything for you.", "EVERYTHING"],
+        ["Onun hakkındaki her şeyden nefret ediyorum.", "I hate everything about her/him.", "EVERYTHING"],
+        ["Her yer yeşil.", "Everywhere is green.", "EVERYWHERE"],
+        ["Her yerde yaşayabilirim.", "I can live everywhere.", "EVERYWHERE"],
+        ["Telefonumu her yerde aradım ama bulamadım.", "I looked for my phone everywhere but couldn't find it.", "EVERYWHERE"],
+        ["Dünyadaki her yeri görmek istiyorum.", "I want to see everywhere in the world.", "EVERYWHERE"],
+        ["Birisi kapıyı çaldı.", "Somebody knocked on the door.", "SOMEBODY"],
+        ["Evde biri var.", "There is somebody at home.", "SOMEBODY"],
+        ["Birisi bize yardım edebilir mi?", "Can somebody help us?", "SOMEBODY"],
+        ["Birisi dışarıda seni bekliyor.", "Somebody is waiting for you outside.", "SOMEBODY"],
+        ["Sepette bir şey var.", "There is something in the basket.", "SOMETHING"],
+        ["Aklımda bir şeyler var.", "There is something on my mind.", "SOMETHING"],
+        ["Senden bir şey istiyorum.", "I want something from you.", "SOMETHING"],
+        ["Sana söyleyecek bir şeyim var.", "I have something to tell you.", "SOMETHING"],
+        ["Farklı bir yere gitmem lazım.", "I need to go somewhere different.", "SOMEWHERE"],
+        ["Daha güzel bir yerde yaşamak istiyorum.", "I want to live somewhere more beautiful.", "SOMEWHERE"],
+        ["Ali Ordu'da bir yerde yaşıyor.", "Ali lives somewhere in Ordu.", "SOMEWHERE"],
+        ["Anahtarlarımı mutfakta bir yere bıraktım.", "I left my keys somewhere in the kitchen.", "SOMEWHERE"],
+        ["Çantan burada bir yerde olmalı.", "Your bag must be somewhere here.", "SOMEWHERE"]
+      ]
+    },
+    {
+      "label": "Gramer Notları",
+      "type": "table",
+      "headers": ["Kural", "Açıklama / Örnek"],
+      "rows": [
+        ["Tekil fiil alır", "Everybody / Everyone / Everything tekil sayılır → is / was / has alır. Örnek: Everyone IS here. ✓"],
+        ["That clause ile kullanım", "Everybody knows THAT they are lying. / Ali thinks THAT he knows everything."],
+        ["SOME– olumlu cümlelerde", "Somebody, Something, Somewhere genellikle olumlu cümle ve isteklerde kullanılır."],
+        ["Sıfat ile kullanım", "Somewhere / Something + sıfat: I want to go somewhere different. / I need something warmer."],
+        ["Deserve kelimesi", "Deserve = hak etmek. Telaffuz: Dİ-ZÖRV. Örnek: Everybody deserves to be happy."],
+        ["Celebrate kelimesi", "Celebrate = kutlamak. Örnek: Everybody in the office celebrated my birthday."]
+      ]
+    }
+  ]
+}
