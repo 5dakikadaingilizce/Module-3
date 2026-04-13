@@ -21,7 +21,7 @@
   { "id": 20,  "name": "Lesson #20",  "subTitle": "BOTH - EITHER - NEITHER",                                         "file": "lessons/m3/lesson20.json",  "logo": "lessonlogo20.svg", "notes": "lessons/m3/notes/m3lesson20_notes.json" },
   { "id": 21,  "name": "Lesson #21",  "subTitle": "OF ANAM OF (sıralama ölçütü)",                                    "file": "lessons/m3/lesson21.json",  "logo": "lessonlogo21.svg", "notes": "lessons/m3/notes/m3lesson21_notes.json" },
   { "id": 22,  "name": "Lesson #22",  "subTitle": "EVERYBODY / EVERYONE / EVERYTHING / EVERYWHERE  / SOMEBODY / SOMEONE / SOMETHING / SOMEWHERE ",                                    "file": "lessons/m3/lesson22.json",  "logo": "lessonlogo22.svg", "notes": "lessons/m3/notes/m3lesson22_notes.json" },
-  { "id": 23,  "name": "Lesson #23",  "subTitle": "ANYBODY / ANYONE / ANYTHING / ANYWHERE / NOBODY / NO ONE / NOTHING / NOWHERE ",                                    "file": "lessons/m3/lesson23.json",  "logo": "lessonlogo233.svg", "notes": "lessons/m3/notes/m3lesson23_notes.json" },
+  { "id": 23,  "name": "Lesson #23",  "subTitle": "ANYBODY / ANYONE / ANYTHING / ANYWHERE / NOBODY / NO ONE / NOTHING / NOWHERE ",                                    "file": "lessons/m3/lesson23.json",  "logo": "lessonlogo23.svg", "notes": "lessons/m3/notes/m3lesson23_notes.json" },
   
   { "id": 28, "name": "Lesson #28", "subTitle": "When / While",                                                      "file": "lessons/m3/lesson28.json", "logo": "lessonlogo28.svg" },
   { "id": 34, "name": "Lesson #34", "subTitle": "use / used to / get used to / to be used to",                       "file": "lessons/m3/lesson34.json", "logo": "lessonlogo34.svg", "notes": "lessons/m3/notes/m3lesson34_notes.json" },
