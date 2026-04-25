@@ -1,5 +1,5 @@
 {
-  "title": "Present Perfect Tense - Ders Notu",
+  "title": "Present Perfect Tense - Notes",
   "tabs": [
     {
       "label": "Yapı",
@@ -10,22 +10,10 @@
         "Örnek"
       ],
       "rows": [
-        ["Olumlu", "[Özne] + have/has + Fiil³", "I have gone. / She has eaten."],
-        ["Olumsuz", "[Özne] + haven't/hasn't + Fiil³", "I haven't gone. / She hasn't eaten."],
-        ["Soru", "Have/Has + [Özne] + Fiil³?", "Have you gone? / Has she eaten?"],
-        ["Soru Sözcüklü", "Soru sözcüğü + have/has + [Özne] + Fiil³?", "When have you gone? / When has she eaten?"]
-      ]
-    },
-    {
-      "label": "Have / Has",
-      "type": "table",
-      "headers": [
-        "Özne",
-        "Yardımcı Fiil"
-      ],
-      "rows": [
-        ["I / You / We / They", "have"],
-        ["He / She / It", "has"]
+        ["Olumlu", "[Özne] + have/has + V3", "I have gone. / She has eaten."],
+        ["Olumsuz", "[Özne] + haven't/hasn't + V3", "I haven't gone. / She hasn't eaten."],
+        ["Soru", "Have/Has + [Özne] + V3?", "Have you gone? / Has she eaten?"],
+        ["Soru Sözcüklü", "Wh (what, why...) + have/has + [Özne] + V3?", "When have you gone? / When has she eaten?"]
       ]
     },
     {
