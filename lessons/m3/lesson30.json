@@ -95,7 +95,7 @@
   { "id": 94, "tr": "Kitabı daha önce hiç okudun mu?", "en": "Have you ever read the book before?" },
   { "id": 95, "tr": "Şu ana kadar cevap yazmadı.", "en": "He hasn't written an answer so far." },
   { "id": 96, "tr": "İtalya’ya hiç gittin mi?", "en": "Have you ever been to Italy?" },
-  { "id": 97, "tr": "Bu şehirde 2015'ten beri yaşıyorum.", "en": "I have lived in this city since two thousand fifteen." },
-  { "id": 98, "tr": "Otuz dakikadır bekliyorum.", "en": "I have been waiting for thirty minutes." },
+  { "id": 97, "tr": "Bu şehirde 2015'ten beri yaşıyorum.", "en": "I have been leaving in this city since two thousand fifteen / I have lived in this city since two thousand fifteen." },
+  { "id": 98, "tr": "Otuz dakikadır bekliyorum.", "en": "I have waited for thirty minutes / I have been waiting for thirty minutes." },
   { "id": 99, "tr": "Sen hiç spor araba kullandın mı?", "en": "Have you ever driven a sports car?" }
 ]
