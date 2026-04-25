@@ -26,7 +26,9 @@
   { "id": 25,  "name": "Lesson #25",  "subTitle": "IF CLAUSES TİP 2 ",                                              "file": "lessons/m3/lesson25.json",  "logo": "lessonlogo25.svg"},
   { "id": 26,  "name": "Lesson #26",  "subTitle": "UNLESS = İF NOT ",                                               "file": "lessons/m3/lesson26.json",  "logo": "lessonlogo26.svg"},
   { "id": 27,  "name": "Lesson #27",  "subTitle": "PAST CONTINUOUS TENSE / WHEN - WHİLE ",                          "file": "lessons/m3/lesson27.json",  "logo": "lessonlogo27.svg"},
-  { "id": 28,  "name": "Lesson #28",  "subTitle": "When / While",                                                     "file": "lessons/m3/lesson28.json",  "logo": "lessonlogo28.svg"},
+  { "id": 28,  "name": "Lesson #28",  "subTitle": "When / While",                                                   "file": "lessons/m3/lesson28.json",  "logo": "lessonlogo28.svg"},
+
+  { "id": 30,  "name": "Lesson #30",  "subTitle": "PRESENT PERFECT TENSE",                                         "file": "lessons/m3/lesson30.json",  "logo": "lessonlogo30.svg", "notes": "lessons/m3/notes/m3lesson30_notes.json" },
 
 
 
