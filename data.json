@@ -29,7 +29,7 @@
   { "id": 28,  "name": "Lesson #28",  "subTitle": "When / While",                                                   "file": "lessons/m3/lesson28.json",  "logo": "lessonlogo28.svg"},
 
   { "id": 30,  "name": "Lesson #30",  "subTitle": "PRESENT PERFECT TENSE",                                         "file": "lessons/m3/lesson30.json",  "logo": "lessonlogo30.svg", "notes": "lessons/m3/notes/m3lesson30_notes.json" },
-
+  { "id": 31,  "name": "Lesson #31",  "subTitle": "PRESENT PERFECT / SİMPLE PAST",                                                   "file": "lessons/m3/lesson31.json",  "logo": "lessonlogo21.svg"},
 
 
 
