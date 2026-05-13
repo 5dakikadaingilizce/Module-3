@@ -34,5 +34,6 @@
   { "id": 33,  "name": "Lesson #33",  "subTitle": "PRESENT PERFECT / SİMPLE PAST / PAST PERFECT",                    "file": "lessons/m3/lesson33.json",  "logo": "lessonlogo33.svg"},
   { "id": 34, "name": "Lesson #34", "subTitle": "use / used to / get used to / to be used to",                       "file": "lessons/m3/lesson34.json", "logo": "lessonlogo34.svg", "notes": "lessons/m3/notes/m3lesson34_notes.json" },
   { "id": 35, "name": "Lesson #35", "subTitle": "TAG QUESTIONS",                                                     "file": "lessons/m3/lesson35.json", "logo": "lessonlogo35.svg" },
-  { "id": 36, "name": "Lesson #36", "subTitle": "Tüm Modul #3 Karışık",                                              "file": "lessons/m3/lesson36.json", "logo": "lessonlogo36.svg" }
+  { "id": 36, "name": "Lesson #36", "subTitle": "Tüm Modul #3 Karışık",                                              "file": "lessons/m3/lesson36.json", "logo": "lessonlogo36.svg" },
+  { "id": 37, "name": "B1 Vocabulary", "subTitle": "B1 Vocabulary",                                              "file": "lessons/m3/B1.json", "logo": "b1logo.png" }
 ]
